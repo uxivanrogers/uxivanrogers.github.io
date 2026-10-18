@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uxivanrogers.github.io/sitemap.xml
